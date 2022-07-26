@@ -24,6 +24,11 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 ## Projects:
 
 - 🔭 I’m currently working on this page. 
+- Setup my github to show all my projects, thi includes:
+   - Development of an R package
+   - Msc thesis
+   - Python class for metabolomics
+   - Fiverr projects
 
 ## Skills 
 
