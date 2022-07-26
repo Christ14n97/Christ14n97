@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Biologist pasionated about coding and data sciences</h3>
 
-<img align="center" width="100" src=https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christ14n97&label=Profile%20views&color=0e75b6&style=flat" alt="christ14n97" /> </p>
 
