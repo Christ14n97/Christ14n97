@@ -1,11 +1,12 @@
 [![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQFG4UuC_l-E3Q/profile-displaybackgroundimage-shrink_350_1400/0/1653299429856?e=1664409600&v=beta&t=V68bgGstwwo3KjpauQMhKsaAH7AjWUxO-L1H42r2ICg)](https://Christ14n97.io)
 <h1 align="center">Hi 👋, I'm Christian</h1>
 <h3 align="center">Biologist pasionated about coding and data sciences</h3>
-<img align="right" alt="Coding" width="400" src="https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif"/>
+
+<img align="center" width="100" src=https://lirp.cdn-website.com/2b5a0c72/dms3rep/multi/opt/Enhance-640w.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christ14n97&label=Profile%20views&color=0e75b6&style=flat" alt="christ14n97" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christ14n97" alt="christ14n97" /></a> </p>
+
 
 - 🔭 I’m currently working on **Python class for metabolomics analysis**
 
