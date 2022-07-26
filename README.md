@@ -11,9 +11,11 @@
 
 I started coding in Python in 2019, after I finished my bachelor. During my MSc in Biochemistry at the University of Geneva, Switzerland, I have learnt to code in R as well as strengthen my background in statistical modelling, ML, multivariate analysis (MVA) and computer skills for biological research.
 
-For my MSc thesis, I am developing a machine learning-guided workflow to identify biomarkers in metabolomics; acquiring skill in data sciences and bioinformatics. This lead to my current project: *developing of a Python class to automatize unsupervised and supervised multivariate analysis*.
+For my MSc thesis, I am developing a machine learning-guided workflow to identify biomarkers in metabolomics; acquiring skill in data sciences and bioinformatics. This lead to my current project: *development of a Python class to automatize unsupervised and supervised multivariate analysis*.
 
-Currently, I am seeking of new projects, preferable at the interface between IT and life sciences where I can make use and refine my computational skills.
+Since december 2021 I am working also as a freelancer at Fiverr, you can find my profile in the last section :)
+
+Currently, I am seeking of new projects, preferable, at the interface between IT and life science, where I can make use and refine my computational skills.
 
 ## Resume
 
