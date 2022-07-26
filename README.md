@@ -1,6 +1,6 @@
 ![I am biologist pasionated about coding and data science](https://media-exp1.licdn.com/dms/image/C4E16AQFG4UuC_l-E3Q/profile-displaybackgroundimage-shrink_350_1400/0/1653299429856?e=1664409600&v=beta&t=V68bgGstwwo3KjpauQMhKsaAH7AjWUxO-L1H42r2ICg)
 
-### Hi there 👋, my name is Christian
+# Christian Peralta | CP-Analytics
 #### I am biologist pasionated about coding and data science
 
 
@@ -13,7 +13,7 @@ I started coding in Python in 2019, after I finished my bachelor. During my MSc 
 
 For my MSc thesis, I am developing a machine learning-guided workflow to identify biomarkers in metabolomics; acquiring skill in data sciences and bioinformatics. This lead to my current project: *development of a Python class to automatize unsupervised and supervised multivariate analysis*.
 
-Since december 2021 I am working also as a freelancer at Fiverr, you can find my profile in the last section :)
+Since december 2021 I am working also as a freelancer at Fiverr, where I am developping my personal brand: CP-Analytics. You can find my profile in the last section :)
 
 Currently, I am seeking of new projects, preferable, at the interface between IT and life science, where I can make use and refine my computational skills.
 
@@ -27,8 +27,22 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 
 ## Skills 
 
-Python / R / ML / MVA / Bash
+* :snake: Python
+    * numpy
+    * pandas
+    * sckit-learn
+    * tensorflow
+    * plotly
+    * seaborn
+* :chart_with_upwards_trend: ML
+* :bar_chart: R
+    * tidyverse
+    * survival
+    * ggplot3
+    * caret
+* :computer: Bash
 
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 ## Contact me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/christian-peralta-viteri-71a81b16b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg' alt='fiverr' height='40'>](https://www.fiverr.com/christian_94_97?up_rollout=true)  
