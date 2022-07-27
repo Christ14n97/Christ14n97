@@ -43,7 +43,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 * :bar_chart: R
     * tidyverse
     * survival
-    * ggplot3
+    * ggplot2
     * caret
 * :computer: Bash
 
