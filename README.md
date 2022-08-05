@@ -6,8 +6,8 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=christ14n97&label=Profile%20views&color=0e75b6&style=flat" alt="christ14n97" /> </p>
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqdas29w9nPrpAzGAq_50xEHyBiOq9DAMekg&usqp=CAU">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Christ14n97&label=Profile%20views&color=0e75b6&style=flat" alt="Christ14n97" /> </p>
 
 I started coding in Python in 2019, after I finished my bachelor. During my MSc in Biochemistry at the University of Geneva, Switzerland, I have learnt to code in R as well as strengthen my background in statistical modelling, ML, multivariate analysis (MVA) and computer skills for biological research.
 
