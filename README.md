@@ -29,6 +29,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
    - Python class for metabolomics
    - Fiverr projects
 
+* 2019: [Python for life science](https://github.com/Christ14n97/Python_4_LifeScience_2019)
 * 2020: [R package development](https://github.com/Christ14n97/R_package_2020)
 * 2021: [Bash mastery](https://github.com/Christ14n97/Bash_mastery_2021)
 
