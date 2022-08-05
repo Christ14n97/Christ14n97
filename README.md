@@ -46,7 +46,8 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
    | ------------- | ------------- |
    | OLS with LASSO - RIGDE regularization | Logistic Regression  |
    | Gradient Boosting  | Random Forest Classifier  |
-   | Random Forest  | Partial Least Squares  |
+   | Random Forest  | Multilayer Perceptron  |
+   | PLS-RA | PLS-DA
 
 * :bar_chart: R
     * tidyverse
