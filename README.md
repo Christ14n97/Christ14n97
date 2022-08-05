@@ -1,6 +1,6 @@
 ![I am biologist pasionated about coding and data science](https://media-exp1.licdn.com/dms/image/C4E16AQFG4UuC_l-E3Q/profile-displaybackgroundimage-shrink_350_1400/0/1653299429856?e=1664409600&v=beta&t=V68bgGstwwo3KjpauQMhKsaAH7AjWUxO-L1H42r2ICg)
 
-# Christian Peralta | CP-Analytics
+# Christian Peralta | CPAnalytics
 #### I am a biologist pasionate about coding and data science
 
 
@@ -23,14 +23,14 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 
 ## Projects:
 
-- 🔭 I’m currently working on this page. 
-- Setup my github to show all my projects, including:
+- 🔭 I’m currently working on this page to showcase my projects which includes:
    - Development of an R package
    - Msc thesis
    - Python class for metabolomics
    - Fiverr projects
 
 * 2020: [R package development](https://github.com/Christ14n97/R_package_2020)
+* 2021: [Bash mastery](https://github.com/Christ14n97/Bash_mastery_2021)
 
 ## Skills 
 
