@@ -43,12 +43,16 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
     * plotly
     * seaborn
 * :chart_with_upwards_trend: Machine Learning
+
+
    Imbalanced data sampling strategies:
     * SMOTE
     * TomekLink
     * Random Under-Sampling
 
-
+   Models:
+   
+   
    | Regression  | Classification |
    | ------------- | ------------- |
    | OLS with LASSO - RIGDE regularization | Logistic Regression  |
