@@ -30,6 +30,8 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
    - Python class for metabolomics
    - Fiverr projects
 
+* 2020: [R package development](https://github.com/Christ14n97/R_package_2020)
+
 ## Skills 
 
 * :snake: Python                 
