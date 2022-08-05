@@ -13,7 +13,7 @@ I started coding in Python in 2019, after I finished my bachelor. During my MSc 
 
 For my MSc thesis, I am developing a machine learning-guided workflow to identify biomarkers in metabolomics; acquiring skill in data sciences and bioinformatics. This lead to my current project: *development of a Python class to automatize unsupervised and supervised multivariate analysis*.
 
-Since december 2021 I am working also as a freelancer at Fiverr, where I am developping my personal brand: CP-Analytics. You can find my profile in the last section :)
+Since december 2021 I am working also as a freelancer at Fiverr, where I am developping my personal brand: CPAnalytics. You can find my profile in the last section :)
 
 Currently, I am seeking of new projects, preferable, at the interface between IT and life science, where I can make use and refine my computational skills.
 
