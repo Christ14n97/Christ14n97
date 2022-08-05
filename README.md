@@ -32,14 +32,20 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 
 ## Skills 
 
-* :snake: Python
+* :snake: Python                 
     * numpy
     * pandas
     * sckit-learn
     * tensorflow
     * plotly
     * seaborn
-* :chart_with_upwards_trend: ML
+* :chart_with_upwards_trend: Machine Learning
+   | Regression  | Classification |
+   | ------------- | ------------- |
+   | OLS with LASSO - RIGDE regularization | Logistic Regression  |
+   | Gradient Boosting  | Random Forest Classifier  |
+   | Random Forest  | Partial Least Squares  |
+
 * :bar_chart: R
     * tidyverse
     * survival
