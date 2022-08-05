@@ -47,6 +47,8 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
     * SMOTE
     * TomekLink
     * Random Under-Sampling
+
+
    | Regression  | Classification |
    | ------------- | ------------- |
    | OLS with LASSO - RIGDE regularization | Logistic Regression  |
