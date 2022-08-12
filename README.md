@@ -31,7 +31,8 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 
 * 2019: [Python for life science](https://github.com/Christ14n97/Python_4_LifeScience_2019)
 * 2020: [R package development](https://github.com/Christ14n97/R_package_2020)
-* 2021: [Bash mastery](https://github.com/Christ14n97/Bash_mastery_2021)
+* 2021: [BASH mastery](https://github.com/Christ14n97/Bash_mastery_2021)
+* 2022: [Machine Learning Project](https://github.com/Christ14n97/Machine_Learning_Competition_2022)
 
 ## Skills 
 
@@ -65,7 +66,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
     * survival
     * ggplot2
     * caret
-* :computer: Bash
+* :computer: BASH scripting
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
