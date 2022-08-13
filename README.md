@@ -19,7 +19,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 
 ## Resume
 
-- 📄 Know about my [experiences](https://www.linkedin.com/feed/update/urn:li:activity:6953248028380045312/)
+- 📄 Know about my [experiences](https://github.com/Christ14n97/Christ14n97/blob/master/CV_EN_2022.pdf)
 
 ## Projects:
 
