@@ -29,6 +29,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
    * 2020: [R-Package Development](https://github.com/Christ14n97/R_package_2020)
    * 2021: [BASH Mastery](https://github.com/Christ14n97/Bash_mastery_2021)
    * 2022: [Machine Learning Project](https://github.com/Christ14n97/Machine_Learning_Competition_2022)
+   * 2022: [MSc thesis, Untargeted Metabolomics - Multivariate Analysis](https://github.com/Christ14n97/MSc_Untarg_Metabo_Workflow)
 
 ## Skills 
 
