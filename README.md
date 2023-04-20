@@ -1,5 +1,4 @@
-![I am biologist pasionated about coding and data science]([https://media-exp1.licdn.com/dms/image/C4E16AQFG4UuC_l-E3Q/profile-displaybackgroundimage-shrink_350_1400/0/1653299429856?e=1675900800&v=beta&t=APorNHEyXrsbHisE3EonYLELIxW8ClGMYomY6VTirIE](https://www.linkedin.com/in/christian-peralta-viteri-71a81b16b/overlay/background-image/))
-
+![I am biologist pasionated about coding and data science](https://media.licdn.com/dms/image/C4E16AQFG4UuC_l-E3Q/profile-displaybackgroundimage-shrink_350_1400/0/1653299429856?e=1687392000&v=beta&t=9qPuQlvaW4T0mBJzl3qJuL-BOBy4yjogg_mFfezLUvU)
 # Christian Peralta | CPAnalytics
 #### I am a biologist pasionate about coding and data science
 
