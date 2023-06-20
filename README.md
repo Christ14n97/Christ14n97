@@ -18,7 +18,7 @@ Currently, I am seeking of new projects, preferable, at the interface between IT
 
 ## Resume
 
-- 📄 Know about my [experiences](https://github.com/Christ14n97/Christ14n97/blob/master/CV_EN_2022.pdf)
+- 📄 Know about my [experiences](https://github.com/Christ14n97/Christ14n97/blob/master/Peralta_Christian_CV.pdf)
 
 ## Projects:
 
